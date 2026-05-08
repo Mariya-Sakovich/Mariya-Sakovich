@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Мария Сакович!
 
-<!--
-**Mariya-Sakovich/Mariya-Sakovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Аналитик данных с опытом реализации 10+ проектов в финтехе, ритейле и бэкграунде в лабораторной сфере. Специализируюсь на:
 
-Here are some ideas to get you started:
+* A/B‑тестировании и проверке гипотез;
+* анализе юнит‑экономики и воронки продаж;
+* поиске точек роста и инсайтов в данных;
+* построении дашбордов и визуализации данных;
+* оптимизации бизнес‑процессов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек технологий
+
+**Анализ данных:**
+* Python: pandas, numpy, matplotlib, seaborn, scipy, scikit‑learn, statsmodels;
+* SQL (PostgreSQL);
+* Jupyter Notebook, DBeaver.
+
+**Визуализация и BI:** Yandex DataLens, построение дашбордов.
+
+**Бизнес‑инструменты:** Excel (ВПР, сводные таблицы), 1C, ERP, СЭД, Word, PowerPoint.
