@@ -17,4 +17,4 @@
 
 **Визуализация и BI:** Yandex DataLens, построение дашбордов.
 
-**Бизнес‑инструменты:** Excel (ВПР, сводные таблицы), 1C, ERP, СЭД, Word, PowerPoint.
+**Бизнес‑инструменты:** Excel, 1C, ERP, СЭД, Word, PowerPoint.
